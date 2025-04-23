@@ -35,7 +35,7 @@
 1. Fork this repository.
 2. Clone the repository
    ```sh
-    git clone https://github.com/kshitij-404/DeFi-P2P-Lender.git
+    git clone https://github.com/fubuki-9/landifi.git
     ```
 3. Open the folder in which you cloned the repository.
 4. Open Ganache to run your local blockchain.
